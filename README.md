@@ -17,14 +17,6 @@ This project performs simple arithmetic operations and behaves like a traditiona
 
 ---
 
-## 📸 Screenshot
-
-![Calculator Screenshot](screenshot.png)
-
-*(Replace `screenshot.png` with your actual image if adding one)*
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** for structure  
